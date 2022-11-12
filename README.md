@@ -15,7 +15,7 @@ Como rodar o projeto?
     
     Exemplo: 
     git clone https://github.com/rg3915/dicas-de-django.git
-    Comandos Windows
+    Comandos abaixo somente no Windows (Linux, MAC, etc) verificar tutoriais internet. 
     python -m venv venv
     cd venv/Scripts/activate
     pip install -r requirements.txt
