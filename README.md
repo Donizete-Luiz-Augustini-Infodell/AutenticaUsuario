@@ -3,8 +3,8 @@ Projeto Odara - Autenticar usuário
 
 Projeto elaborado:
 
-Python 3.9.1
-Django 4.1.2
+.Python 3.9.1
+.Django 4.1.2
 
 Como rodar o projeto?
 
