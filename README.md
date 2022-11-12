@@ -14,7 +14,7 @@ Como rodar o projeto?
   Instale as dependências.
   Rode as migrações.
 
-  Exemplo:
+Exemplo:
   git clone https://github.com/https://github.com/Donizete-Luiz-Augustini-Infodell/AutenticaUsuario
   Comandos nos Windows (Outros SO, verificar passo-a-passo Internet) 
   python -m venv .venv
