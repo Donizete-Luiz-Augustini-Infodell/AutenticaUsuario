@@ -1,6 +1,7 @@
 Autentica Usuario
 
-Sobre
+Este projeto foi feito com:
+
     Python 3.9.6
     Django 3.2.*
 
@@ -19,5 +20,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python contrib/env_gen.py
 python manage.py migrate
-
-    
